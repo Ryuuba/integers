@@ -10,7 +10,6 @@
 // type: the type of the integer
 int main(int argc, char const *argv[])
 {
-
     std::string type;
     irepr_t number;
     parse_input(argc, argv, number, type);
